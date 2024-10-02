@@ -24,4 +24,6 @@ My Favorite Scientific Topics
 - Aerosol-Cloud Interaction
 - Machine Learning
 
-Use `git clone 
+Use `git clone https://github.com/jeyun10-uw/MLGeo-dataset.git` to clone my repository.
+
+

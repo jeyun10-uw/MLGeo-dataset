@@ -26,4 +26,4 @@ My Favorite Scientific Topics
 
 Use `git clone https://github.com/jeyun10-uw/MLGeo-dataset.git` to clone my repository.
 
-
+I used the MIT License: It lets people do almost anything they want with your project, like making and distributing closed source versions.

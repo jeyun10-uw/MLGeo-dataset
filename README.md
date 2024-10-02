@@ -16,3 +16,12 @@ In this header, I will demonstrate my skills to deal with Gitbub
 git clone URL
 ```
 
+To run a code in a cell on jupyter notebook/lab, press <kbd>Shift</kbd> + <kbd>Enter</kbd> keys.
+
+My Favorite Scientific Topics
+- Cloud Physics
+- Boundary Layer Meteorology
+- Aerosol-Cloud Interaction
+- Machine Learning
+
+Use `git clone 
